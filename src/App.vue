@@ -21,7 +21,7 @@
       :tasks="tasks"
     />
     <p class="text-sm text-red-600 text-center mt-8 motion-safe:animate-bounce">
-      * With any questions, contact Bison Transport Shop Supervisor.
+      * With any questions, contact your Shop Supervisor.
     </p>
   </div>
 </template>
