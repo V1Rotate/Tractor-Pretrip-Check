@@ -1,12 +1,7 @@
-This is a personal practice project developer with VueJS, Tailwind CSS, Node.JS, API fetching, Font Awesome.
-Truck image and Bison Transport logo are open source media. 
+This is a personal practice project developer with VueJS, Tailwind CSS, Node.JS.
 
-This is the application for a truck driver, in this case, Freightliner Cascadia truck. Driver gets a list of the check-points he should check before the departure and 
-his trip. If found this list of check-point at the open source. If any check point is not applicable for the specific truck and its modification, the driver can remove 
-any point from the list not make him confused later and to make the list look cleaner. Driver toggle each check-point once its checked on the truck, and that check point 
-on the list gets a green color bar on the left side indicating that this exact task is completed.
+Please review the Powerpoint presentation of this project attached.
 
-Application can be closed once all the tasks completed (all the points checked).
+If you have any questions, please just let me know.
 
-In case, the driver is not sure about any task and would like to remind anything technical stuff regarding his Freightliner Cascadia, he can open the Driver's Manual 
-by clicking the 'Driver's Manual' button in the Header - driver will be routed to the Freightliner truck official driver's manual.
+Thank you.
