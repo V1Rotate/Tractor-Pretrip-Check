@@ -59,14 +59,14 @@ export default {
     //fetching our check-list tasks from the MockAPI.
     async fetchTasks() {
       const res = await fetch(
-        'https://639f53405eb8889197fa4891.mockapi.io/tasks/'
+        'SECRET_API_URL'
       );
       const data = await res.json();
       return data;
     },
     async fetchTask(id) {
       const res = await fetch(
-        `https://639f53405eb8889197fa4891.mockapi.io/tasks/${id}`
+        `SECRET_API_URL/${id}`
       );
       const data = await res.json();
       return data;
